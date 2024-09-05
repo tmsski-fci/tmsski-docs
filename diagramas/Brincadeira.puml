@@ -1,0 +1,14 @@
+class Brincadeira {
+    nome
+    qtdeMinimaJogadores
+    qtdeMaximaJogadores
+    habilidadePrincipal
+}
+
+object "<u>sigaChefe:Brincadeira</u>" as siga {
+    nome: "Siga o chefe"
+    qtdeMinimaJogadores: 2
+    qtdeMaximaJogadores: não há
+    habilidadePrincipal: "imitação"
+}
+
